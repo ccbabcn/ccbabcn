@@ -45,4 +45,12 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="SASS" alt="SASS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" title="TailWind" alt="TailWind" width="40" height="40"/>&nbsp;
 </div>
+<div>
+    <h3>
+        My stats
+    </h3>
+</div>
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ccbabcn&theme=dark&hide_border=true&date_format=n%2Fj%5B%2FY%5D)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ccbabcn&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
