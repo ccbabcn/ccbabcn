@@ -1,16 +1,15 @@
-### Hi there 👋
-
-<!--
-**ccbabcn/ccbabcn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="150"/>
+  <div id="badges">
+    <a href="www.linkedin.com/in/cristian-bermudez-agudelo">
+      <img src="https://img.shields.io/badge/LinkedIn-purple?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="https://twitter.com/CristianBerdelo">
+      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    </a>
+  
+   <h1>
+  WIP
+</h1>
+  </div>
+</div>
